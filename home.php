@@ -47,6 +47,16 @@ require_once "validador_acesso.php";
                   <img src="formulario_consultar_chamado.png" width="70" height="70">
                   </a>
                 </div>
+                <?php
+  
+                    if($_SESSION['perfil_ID'] == 1) {?>
+                
+              
+                <div class="col-6 d-flex justify-content-center">
+                <a href="limpar_chamado.php">
+                  <img src="formulario_limpar_chamado.png" width="70" height="70">
+                  </a>
+                </div><?php  } ?>
               </div>
             </div>
           </div>
