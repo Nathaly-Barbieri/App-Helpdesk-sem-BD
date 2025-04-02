@@ -1,4 +1,4 @@
-Esse projeto foi criado com a ajuda de um curso da Udemy, meu objetivo com ele agora é revisar o código e melhorar a lógica de programação.
+Esse projeto foi criado com a ajuda de um curso da Udemy. Meu atual objetivo com ele é revisar o código e melhorar a minha lógica de programação.
 
 Ele é um sistema de registro de chamados e controle de acesso usando o recurso de sessão do browser que salva as informações em um arquivo através da função fopen (e outras) do php.
 
